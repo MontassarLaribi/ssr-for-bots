@@ -81,4 +81,4 @@ function ssrForBots(options: Options) {
   return ssrOnDemand;
 }
 
-module.exports = ssrForBots;
+export { ssrForBots };
