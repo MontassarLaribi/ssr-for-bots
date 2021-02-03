@@ -1,7 +1,7 @@
 {
   "name": "ssr-for-bots",
   "version": "1.0.0",
-  "description": "SSR on demand is an express middleware that will apply SSR to your application",
+  "description": "SSR-for-bots is an express middleware that will apply SSR to your application only when bots are visiting it",
   "main": "./lib/index.js",
   "scripts": {
     "compile": "tsc",
