@@ -1,6 +1,6 @@
 {
   "name": "ssr-for-bots",
-  "version": "1.0.1a",
+  "version": "1.0.1b",
   "description": "SSR-for-bots is an express middleware that will apply SSR to your application only when bots are visiting it",
   "main": "./lib/index.js",
   "homepage": "https://github.com/MontassarLaribi/ssr-for-bots",

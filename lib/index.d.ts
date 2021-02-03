@@ -6,4 +6,4 @@ interface Options {
     cacheRefreshRate: number;
 }
 declare function ssrForBots(options: Options): (req: Request, res: Response, next: NextFunction) => void;
-export { ssrForBots };
+export default ssrForBots;
